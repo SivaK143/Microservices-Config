@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+  
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Siva - Java Developer"
+    email: "java@gmail.com"
+  onCallSupport:
+    - (666)12345
+    - (888)34567
+  
